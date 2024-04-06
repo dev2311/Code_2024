@@ -10,5 +10,6 @@ public class dynamicprogramming {
         System.out.println("third" +
                 " comment");
         // from intellij
+        // next comment
     }
 }
